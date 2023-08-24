@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing under Graduation in **CSE** in**GCE,Thanjavur,Sengippati**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,Java,Python**
+- 📝 I’m currently learning **HTML,CSS,Javascript,Java,Python**
 
 - 📫 How to reach me **dharshangk333@gmail.com**
 
